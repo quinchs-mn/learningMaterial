@@ -12,8 +12,8 @@ A beginner's guide to Shiny modules Emily Riederer
 Code Snippets (in R Studio slowly type shiny and you should see shinymod and shinyapp {snippet}, click one and see what happens) J.J. Allaire
 * https://support.posit.co/hc/en-us/articles/204463668-Code-Snippets-in-the-RStudio-IDE
 
-Shiny modules
+Shiny modules Winston Chang, Joe Cheng, JJ Allaire, Carson Sievert, Barret Schloerke, Yihui Xie, Jeff Allen, Jonathan McPherson, Alan Dipert, Barbara Borges, Posit Software, PBC
 * https://rstudio.github.io/shiny/reference/moduleServer.html
 
-Modularizing Shiny app code
+Modularizing Shiny app code Winston Chang, Joe Cheng, JJ Allaire, Carson Sievert, Barret Schloerke, Yihui Xie, Jeff Allen, Jonathan McPherson, Alan Dipert, Barbara Borges, Posit Software, PBC
 * https://shiny.posit.co/r/articles/improve/modules/
