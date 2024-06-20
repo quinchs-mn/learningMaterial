@@ -14,3 +14,6 @@ Code Snippets (in R Studio slowly type shiny and you should see shinymod and shi
 
 Shiny modules
 * https://rstudio.github.io/shiny/reference/moduleServer.html
+
+Modularizing Shiny app code
+* https://shiny.posit.co/r/articles/improve/modules/
