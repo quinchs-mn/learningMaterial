@@ -1,5 +1,8 @@
+For the link to open in a new tab please perform the following CTRL+click (on Windows and Linux) or CMD+click (on MacOS)
+* Source https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank
+
 Mastering Shiny Hadley Wickem 
-* <a href="https://mastering-shiny.org/scaling-modules.html" target="_blank">Mastering Shiny</a>
+* https://mastering-shiny.org/scaling-modules.html
 * Source Code https://github.com/hadley/mastering-shiny/blob/main/scaling-modules.Rmd
 
 A beginner's guide to Shiny modules Emily Riederer
