@@ -1,5 +1,5 @@
 Mastering Shiny Hadley Wickem 
-* https://mastering-shiny.org/scaling-modules.html
+* <a href="https://mastering-shiny.org/scaling-modules.html" target="_blank">Mastering Shiny</a>
 * Source Code https://github.com/hadley/mastering-shiny/blob/main/scaling-modules.Rmd
 
 A beginner's guide to Shiny modules Emily Riederer
