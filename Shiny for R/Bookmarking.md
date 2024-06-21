@@ -7,3 +7,7 @@ Hadley Wickem
 * 11 Bookmarking
   * https://mastering-shiny.org/action-bookmark.html
   * Source Code https://github.com/hadley/mastering-shiny/blob/main/index.Rmd
+ 
+ Winston Chang
+* Bookmarking state (OCTOBER 15, 2019)
+   * https://shiny.posit.co/r/articles/share/bookmarking-state/
