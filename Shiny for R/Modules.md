@@ -15,6 +15,8 @@ Emily Riederer
   * Source Code https://github.com/emilyriederer/demo-shiny-modules
 * Why Modules Matter for New Shiny developers (Apr 11 2023)
   * https://www.youtube.com/watch?v=F6I_jXPWFBk
+* Demo Shiny Modules (July 26, 2020)
+  * https://github.com/emilyriederer/demo-shiny-modules/tree/master
 
 J.J. Allaire
 * Code Snippets (in R Studio slowly type shiny and you should see shinymod and shinyapp {snippet}, click one and see what happens)
