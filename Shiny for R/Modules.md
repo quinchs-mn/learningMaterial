@@ -13,7 +13,8 @@ Emily Riederer
   * https://rviews.rstudio.com/2021/10/20/a-beginner-s-guide-to-shiny-modules/ (2021-10-20)
   * https://emilyriederer.netlify.app/post/shiny-modules/ (July 26, 2020)
   * Source Code https://github.com/emilyriederer/demo-shiny-modules
-* 
+* Why Modules Matter for New Shiny developers (Apr 11 2023)
+  * https://www.youtube.com/watch?v=F6I_jXPWFBk
 
 J.J. Allaire
 * Code Snippets (in R Studio slowly type shiny and you should see shinymod and shinyapp {snippet}, click one and see what happens)
