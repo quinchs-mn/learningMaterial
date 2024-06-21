@@ -9,9 +9,9 @@ Hadley Wickem
   * Source Code https://github.com/hadley/mastering-shiny/blob/main/scaling-modules.Rmd
 
 Emily Riederer
-* A beginner's guide to Shiny modules
+* A beginner's guide to Shiny modules (2021-10-20)
   * https://rviews.rstudio.com/2021/10/20/a-beginner-s-guide-to-shiny-modules/
-  * https://emilyriederer.netlify.app/post/shiny-modules/
+  * https://emilyriederer.netlify.app/post/shiny-modules/ 
   * Source Code https://github.com/emilyriederer/demo-shiny-modules
 * 
 
