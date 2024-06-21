@@ -15,8 +15,8 @@ Emily Riederer
   * Source Code https://github.com/emilyriederer/demo-shiny-modules
 * 
 
-* J.J. Allaire
-  * Code Snippets (in R Studio slowly type shiny and you should see shinymod and shinyapp {snippet}, click one and see what happens)
+J.J. Allaire
+* Code Snippets (in R Studio slowly type shiny and you should see shinymod and shinyapp {snippet}, click one and see what happens)
   * https://support.posit.co/hc/en-us/articles/204463668-Code-Snippets-in-the-RStudio-IDE
 
 Winston Chang, Joe Cheng, JJ Allaire, Carson Sievert, Barret Schloerke, Yihui Xie, Jeff Allen, Jonathan McPherson, Alan Dipert, Barbara Borges, Posit Software, PBC
