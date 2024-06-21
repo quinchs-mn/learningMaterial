@@ -27,6 +27,7 @@ Winston Chang
 * Modularizing Shiny app code
   * https://shiny.posit.co/r/articles/improve/modules/
 
-Understand Modules with R & RStudio | RStudio Webinar - 2016
+Garrett Grolemund
+* Understand Modules with R & RStudio | RStudio Webinar - 2016
   * https://www.youtube.com/watch?v=q2eFxsUgCgg
   * Source Code https://github.com/rstudio/webinars/tree/master/19-Understanding-modules
