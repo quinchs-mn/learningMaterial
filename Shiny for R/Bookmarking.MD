@@ -1,3 +1,5 @@
+Bookmarking allows for users to return to the same place where they left the application so if a person has selected parameters than they can save their work 
+
 For the link to open in a new tab please perform the following CTRL+click (on Windows and Linux) or CMD+click (on MacOS)
 * Source https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank
 
