@@ -37,3 +37,7 @@ Eric Nantz
 * Effective use of Shiny modules in application development | RStudio (2019) (Oct 23, 2019)
   * https://www.youtube.com/watch?v=ylLLVo2VL50
   * Source Code https://github.com/rpodcast/ames_explorer/tree/master
+
+Limey
+* shiny: updateSelectInput for a module UI (after insertUI)
+  * https://stackoverflow.com/questions/62225295/shiny-updateselectinput-for-a-module-ui-after-insertui
