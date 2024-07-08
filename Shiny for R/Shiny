@@ -5,8 +5,16 @@ Posit
 * App formats and launching apps
   * https://shiny.posit.co/r/articles/build/app-formats/
 
+Joe Cheng
+* Shiny in production: Principles, practices, and tools (2019-01-28) (Excellent for testing performance)
+  * https://posit.co/resources/videos/shiny-in-production-principles-practices-and-tools/
+  *  Slide Deck: https://speakerdeck.com/jcheng5/shiny-in-production
+  *  Source Code: https://github.com/rstudio/cranwhales
+
 Kellobri
 * Supplement to Shiny in Production (2019-01-15)
   * https://kellobri.github.io/shiny-prod-book/
 
 https://ourcodingclub.github.io/tutorials/shiny/
+
+
