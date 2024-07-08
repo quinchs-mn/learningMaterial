@@ -2,6 +2,11 @@
 Posit
 * Shiny Basics
   * https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+* App formats and launching apps
+  * https://shiny.posit.co/r/articles/build/app-formats/
 
+Kellobri
+* Supplement to Shiny in Production (2019-01-15)
+  * https://kellobri.github.io/shiny-prod-book/
 
 https://ourcodingclub.github.io/tutorials/shiny/
