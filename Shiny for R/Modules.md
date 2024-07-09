@@ -38,6 +38,10 @@ Eric Nantz
   * https://www.youtube.com/watch?v=ylLLVo2VL50
   * Source Code https://github.com/rpodcast/ames_explorer/tree/master
 
+Barret Schloerke
+* Modules.R
+  * https://github.com/rstudio/shiny/blob/main/R/modules.R
+
 Limey
 * shiny: updateSelectInput for a module UI (after insertUI)
   * https://stackoverflow.com/questions/62225295/shiny-updateselectinput-for-a-module-ui-after-insertui
