@@ -1,6 +1,6 @@
 # Learning Materials Repository
 
-Welcome to the Learning Materials Repository! 
+Welcome to my Learning Materials Repository! 
 This repository is a comprehensive collection of resources that I am gathering as I embark on my journey to enhance my professional skills. 
 It serves as a personal library where I can store and easily reference learning materials whenever I need to revisit them.
 
