@@ -6,13 +6,8 @@ It serves as a personal library where I can store and easily reference learning 
 
 ## Table of Contents
 
-- Introduction
 - Repository Structure
 - License
-
-## Introduction
-
-This repository aims to provide a wide range of learning materials, including tutorials, lecture notes, exercises, and reference documents. Whether you're a student, educator, or lifelong learner, you'll find valuable resources to enhance your knowledge and skills.
 
 ## Repository Structure
 
